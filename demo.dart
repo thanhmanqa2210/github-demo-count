@@ -1,4 +1,4 @@
 void main() {
   print("chào mọi người hôm nay là thứ bảy");
-  print("  Code không ngừng nghỉ nha bạn ");
+  print("  Code không ngừng nghỉ nha thằng mặt lồn kia  ");
 }
